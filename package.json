@@ -1,0 +1,1 @@
+{"name":"marketplace-image-variants","private":true,"type":"module","scripts":{"start":"tsx src/marketplace_service.ts","test":"tsx src/marketplace_service.test.ts","typecheck":"tsc --noEmit"},"dependencies":{"tsx":"^4.19.2","typescript":"^5.6.3","zod":"^3.23.8"},"devDependencies":{"@types/node":"^26.6.6"}}
